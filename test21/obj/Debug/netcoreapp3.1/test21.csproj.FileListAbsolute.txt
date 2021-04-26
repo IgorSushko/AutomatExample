@@ -1,0 +1,16 @@
+F:\zCSharp\test2021\test21\test21\bin\Debug\netcoreapp3.1\test21.exe
+F:\zCSharp\test2021\test21\test21\bin\Debug\netcoreapp3.1\test21.deps.json
+F:\zCSharp\test2021\test21\test21\bin\Debug\netcoreapp3.1\test21.runtimeconfig.json
+F:\zCSharp\test2021\test21\test21\bin\Debug\netcoreapp3.1\test21.runtimeconfig.dev.json
+F:\zCSharp\test2021\test21\test21\bin\Debug\netcoreapp3.1\test21.dll
+F:\zCSharp\test2021\test21\test21\bin\Debug\netcoreapp3.1\test21.pdb
+F:\zCSharp\test2021\test21\test21\obj\Debug\netcoreapp3.1\test21.csprojAssemblyReference.cache
+F:\zCSharp\test2021\test21\test21\obj\Debug\netcoreapp3.1\test21.AssemblyInfoInputs.cache
+F:\zCSharp\test2021\test21\test21\obj\Debug\netcoreapp3.1\test21.AssemblyInfo.cs
+F:\zCSharp\test2021\test21\test21\obj\Debug\netcoreapp3.1\test21.dll
+F:\zCSharp\test2021\test21\test21\obj\Debug\netcoreapp3.1\test21.pdb
+F:\zCSharp\test2021\test21\test21\obj\Debug\netcoreapp3.1\test21.genruntimeconfig.cache
+F:\zCSharp\test2021\test21\test21\bin\Debug\netcoreapp3.1\RestSharp.dll
+F:\zCSharp\test2021\test21\test21\obj\Debug\netcoreapp3.1\test21.csproj.CopyComplete
+F:\zCSharp\test2021\test21\test21\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\zCSharp\test2021\test21\test21\obj\Debug\netcoreapp3.1\test21.csproj.CoreCompileInputs.cache
